@@ -13,7 +13,6 @@ Please strictly output the judgment result in the following JSON format. Do not 
   "Defendant Total Payment Amount":"",
 }
 
----
 ## User Prompt
 Case Details: Li was employed by a design company on March 15, 2023, with a monthly salary of 12,000 RMB. The company failed to pay social insurance according to law and unilaterally terminated the labor contract on February 20, 2024, citing business adjustments. During employment, Li worked 60 hours of overtime on weekends without compensation.
 
@@ -34,6 +33,5 @@ Case Details: Li was employed by a design company on March 15, 2023, with a mont
   "被告应支付总额":"",
 }
 
----
 ## User Prompt
 案情：李某于2023年3月15日入职某设计公司，约定月工资12000元。公司未依法缴纳社会保险，并于2024年2月20日以业务调整为由单方面解除劳动合同。工作期间，李某有60小时周末加班未获补偿。
