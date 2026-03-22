@@ -1,4 +1,4 @@
-# Prompts for Judicial Decision-Making Research
+# Prompts for Experiments
 
 This document outlines the prompt engineering strategies used for the judicial decision-making experiments, comparing the baseline model against the model influenced by public opinion data.
 
